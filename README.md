@@ -1,4 +1,4 @@
-### Hi there 👋
+### '함께'의 힘을 믿는, 이지은입니다.
 
 <!--
 **lju0514/lju0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
