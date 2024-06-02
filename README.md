@@ -1,4 +1,5 @@
 ### '함께'의 힘을 믿는, 이지은입니다.
+[포트폴리오 바로가기](https://thread-fight-6e0.notion.site/a8ea036539e04bac82278594dd01356e?pvs=4)
 
 <!--
 **lju0514/lju0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
